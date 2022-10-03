@@ -1,0 +1,22 @@
+section{
+    background-image: url(./ba12.jpg);
+    background-color: rgb(50, 50, 50);
+    background-blend-mode: soft-light;
+}
+article{
+    display: flex;
+    flex-direction: row-reverse;
+    height: 700px;
+    align-items: center;
+}
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+  }
+  
+  body {
+    margin-bottom: 300px;
+  }
